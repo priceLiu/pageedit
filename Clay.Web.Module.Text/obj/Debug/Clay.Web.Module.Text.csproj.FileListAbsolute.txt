@@ -1,0 +1,38 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.Web.Module.Text.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.Web.Module.Text.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Peanut.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Smark.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.Enums.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Smark.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.Web.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.Enums.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\obj\Debug\Clay.Web.Module.Text.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\obj\Debug\Clay.Web.Module.Text.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\obj\Debug\Clay.Web.Module.Text.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.Modules.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.Modules.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.Logic.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.Module.Text\bin\Debug\Clay.Logic.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.Web.Module.Text.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.Web.Module.Text.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.Modules.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.Web.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Peanut.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Smark.Data.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.Enums.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.Logic.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Smark.Core.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.Modules.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.Web.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.Enums.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\bin\Debug\Clay.Logic.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\obj\Debug\Clay.Web.Module.Text.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\obj\Debug\Clay.Web.Module.Text.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.Module.Text\obj\Debug\Clay.Web.Module.Text.pdb

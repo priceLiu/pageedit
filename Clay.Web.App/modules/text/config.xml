@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Setting>
+  <EditDialog width="400px" height="300px" title="自定义文本块"/>
+  <Params>
+    <Param name="" value=""/>
+  </Params>
+</Setting>

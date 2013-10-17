@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Logic\bin\Debug\Clay.Logic.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Logic\bin\Debug\Clay.Logic.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Logic\bin\Debug\Clay.Enums.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Logic\bin\Debug\Clay.Modules.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Logic\bin\Debug\Smark.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Logic\bin\Debug\Smark.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Logic\bin\Debug\Clay.Enums.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Logic\bin\Debug\Clay.Modules.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Logic\obj\Debug\Clay.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Logic\obj\Debug\Clay.Logic.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Logic\obj\Debug\Clay.Logic.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Logic\bin\Debug\Clay.Logic.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Logic\bin\Debug\Clay.Logic.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Logic\bin\Debug\Clay.Enums.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Logic\bin\Debug\Clay.Modules.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Logic\bin\Debug\Smark.Data.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Logic\bin\Debug\Smark.Core.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Logic\bin\Debug\Clay.Enums.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Logic\bin\Debug\Clay.Modules.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Logic\obj\Debug\Clay.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Clay4\Clay.Logic\obj\Debug\Clay.Logic.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Logic\obj\Debug\Clay.Logic.pdb

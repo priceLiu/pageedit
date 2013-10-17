@@ -1,0 +1,18 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Modules\bin\Debug\Clay.Modules.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Modules\bin\Debug\Clay.Modules.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Modules\bin\Debug\Clay.Enums.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Modules\bin\Debug\Smark.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Modules\bin\Debug\Smark.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Modules\bin\Debug\Clay.Enums.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Modules\obj\Debug\Clay.Modules.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Modules\obj\Debug\Clay.Modules.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Modules\obj\Debug\Clay.Modules.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Modules\bin\Debug\Clay.Modules.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Modules\bin\Debug\Clay.Modules.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Modules\bin\Debug\Clay.Enums.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Modules\bin\Debug\Smark.Data.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Modules\bin\Debug\Smark.Core.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Modules\bin\Debug\Clay.Enums.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Modules\obj\Debug\Clay.Modules.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Clay4\Clay.Modules\obj\Debug\Clay.Modules.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Modules\obj\Debug\Clay.Modules.pdb

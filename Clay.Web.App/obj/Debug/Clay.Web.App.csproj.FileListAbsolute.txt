@@ -1,0 +1,44 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Web.App.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Web.App.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Enums.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Logic.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Web.Module.Text.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Peanut.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Smark.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\System.Data.SQLite.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Modules.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Smark.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Enums.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Logic.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Web.Module.Text.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Web.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\bin\Clay.Modules.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\obj\Debug\Clay.Web.App.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\obj\Debug\Clay.Web.App.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web.App\obj\Debug\Clay.Web.App.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Web.App.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Web.App.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Enums.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Logic.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Web.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Web.Module.Text.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Peanut.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Smark.Data.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Modules.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\log4net.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Smark.Core.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Enums.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Logic.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Web.Module.Text.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Web.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\bin\Clay.Modules.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\obj\Debug\Clay.Web.App.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\obj\Debug\Clay.Web.App.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web.App\obj\Debug\Clay.Web.App.pdb

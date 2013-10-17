@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay\bin\Debug\Clay.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay\bin\Debug\Clay.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay\obj\Debug\Clay.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay\obj\Debug\Clay.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay\bin\Debug\Clay.dll
+C:\Users\Administrator\Desktop\Clay4\Clay\bin\Debug\Clay.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Clay4\Clay\obj\Debug\Clay.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Clay4\Clay\obj\Debug\Clay.dll
+C:\Users\Administrator\Desktop\Clay4\Clay\obj\Debug\Clay.pdb

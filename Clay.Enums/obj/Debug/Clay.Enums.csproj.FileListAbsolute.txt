@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Enums\bin\Debug\Clay.Enums.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Enums\bin\Debug\Clay.Enums.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Enums\obj\Debug\Clay.Enums.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Enums\obj\Debug\Clay.Enums.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Enums\bin\Debug\Clay.Enums.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Enums\bin\Debug\Clay.Enums.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Enums\obj\Debug\Clay.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Clay4\Clay.Enums\obj\Debug\Clay.Enums.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Enums\obj\Debug\Clay.Enums.pdb

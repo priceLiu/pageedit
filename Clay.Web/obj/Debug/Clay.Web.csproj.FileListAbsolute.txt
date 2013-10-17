@@ -1,0 +1,32 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Clay.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Clay.Web.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Clay.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Clay.Enums.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Clay.Enums.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Clay.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\obj\Debug\Clay.Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\obj\Debug\Clay.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\obj\Debug\Clay.Web.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Clay.Logic.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Smark.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Clay.Modules.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Smark.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Clay.Logic.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Clay\Clay.Web\bin\Debug\Clay.Modules.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Clay.Web.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Clay.Web.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Clay.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Clay.Enums.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Clay.Logic.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Smark.Data.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Clay.Modules.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Smark.Core.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Clay.Enums.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Clay.Logic.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Clay.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\bin\Debug\Clay.Modules.pdb
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\obj\Debug\Clay.Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\obj\Debug\Clay.Web.dll
+C:\Users\Administrator\Desktop\Clay4\Clay.Web\obj\Debug\Clay.Web.pdb
